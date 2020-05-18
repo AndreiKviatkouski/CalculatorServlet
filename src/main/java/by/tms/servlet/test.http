@@ -1,0 +1,9 @@
+GET http://localhost:8080/Hello?num1=45&num2=22
+//localhost:8080/Hello?name=Andrei&age=22
+
+###
+
+POST http://localhost:8080/Hello
+#Content-Type:text/html
+#token: name=Andrei&age=22
+###
