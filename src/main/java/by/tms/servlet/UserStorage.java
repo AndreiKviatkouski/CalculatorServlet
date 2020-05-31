@@ -1,5 +1,7 @@
 package by.tms.servlet;
 
+import entity.User;
+
 import java.util.ArrayList;
 import java.util.List;
 
